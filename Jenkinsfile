@@ -8,7 +8,7 @@ pipeline{
         }
         stage('stage 2'){
             steps{
-                echo 'hello from stage 2'
+                echo 'hello from stage 2, ca se passe sur mon ordi'
             }
         }
     }
